@@ -97,7 +97,7 @@ public class Email {
 				return "Development";
 			
 			case 3 : 
-				return "Accounting";
+				return "Accounts";
 			
 			case 0 : 
 				return "None";
